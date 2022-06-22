@@ -50,10 +50,12 @@ body
 {
     background-color: whitesmoke;
     width: 670px;
-    height: 120px;
-    text-align: center;
+    height: 265px;
+    text-align: justify;
     margin-top: 20px;
     padding-top: 1px;
+    padding-left: 10px;
+    padding-right: 10px;
     border: 2px solid black;
     border-radius: 10px;
 }
@@ -62,7 +64,7 @@ body
 {
     background-color: whitesmoke;
     margin-top: 20px;
-    margin-left: 20px;
+    margin-left: 0px;
     margin-bottom: 20px;
     border: 2px solid black;
 }
