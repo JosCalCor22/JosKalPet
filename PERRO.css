@@ -1,0 +1,50 @@
+body 
+{
+    font-family: "Arial";
+    background-color: #32C6C1;
+}
+
+#Titulo
+{
+    display: flex;
+    justify-content: center;
+}
+
+#Titulo1
+{
+    background-color: whitesmoke;
+    width: 670px;
+    height: 80px;
+    text-align: center;
+    padding-bottom: 25px;
+    margin-top: auto;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+
+#Texto
+{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#PrimerTexto
+{
+    background-color: whitesmoke;
+    width: 670px;
+    height: 120px;
+    text-align: center;
+    margin-top: 20px;
+    padding-top: 1px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+#Imagen
+{
+    background-color: whitesmoke;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    border: 2px solid black;
+}
