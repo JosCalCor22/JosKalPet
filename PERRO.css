@@ -16,19 +16,37 @@ body
     width: 670px;
     height: 80px;
     text-align: center;
-    padding-bottom: 25px;
     margin-top: auto;
     border-radius: 10px;
     border: 2px solid black;
 }
 
-#Texto
+#Texto1
+{
+    justify-content: center;
+}
+
+#PrimerTexto-1
+{
+    background-color: whitesmoke;
+    text-align: justify;
+    width: auto;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 20px;
+    margin-left: 45px;
+    margin-right: 45px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+#Texto2
 {
     display: flex;
     justify-content: space-evenly;
 }
 
-#PrimerTexto
+#PrimerTexto-2
 {
     background-color: whitesmoke;
     width: 670px;
