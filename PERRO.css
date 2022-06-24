@@ -26,7 +26,7 @@ body
 {
     display: block;
     text-align: center; 
-    padding-top: 15px; 
+    padding-top: 0px; 
     padding-left: 20px;
 }
 
@@ -100,7 +100,7 @@ body
 
 #cabecera
 {
-    background-color: #1FC2BE;
+    background-color:whitesmoke;
     height: 80px;
     width: 100%;
     margin-bottom: 20px;
@@ -166,7 +166,7 @@ nav
 
 #Titulo1
 {
-    background-color: #1FC2BE;
+    background-color: whitesmoke;
     width: 670px;
     height: 80px;
     text-align: center;
@@ -182,7 +182,7 @@ nav
 
 #PrimerTexto-1
 {
-    background-color: #1FC2BE;
+    background-color: whitesmoke;
     text-align: justify;
     width: auto;
     padding-left: 10px;
@@ -232,7 +232,7 @@ nav
 
 #PrimerTexto-3
 {
-    background-color: #1FC2BE;
+    background-color: whitesmoke;
     width: 600px;
     height: 385px;
     text-align: justify;
