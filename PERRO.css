@@ -1,8 +1,69 @@
 body 
 {
     font-family: "Arial";
-    background-color: #32C6C1;
+    background-color: whitesmoke;
+    margin: 0px;
 }
+
+#cabecera
+{
+    background-color: #1FC2BE;
+    height: 80px;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+#Logo
+{
+    float: left;
+    text-decoration: none;
+    color: black;
+    padding: 15px 0px 0px 20px;
+}
+
+    #NombrePag
+    {
+        color: #000000;
+        display: block;
+        text-align: center;
+        font-weight: 700;
+        font-size: 20px;
+    }
+
+    #FrasePag
+    {
+        display: block;
+        color: #000000;
+        font-weight: 300;
+        font-size: 15px;
+    }
+    
+nav
+{
+    float:right
+}
+
+    nav ul
+    {
+        list-style: none;
+        margin: 0px;
+        padding: 0px;
+        padding-right: 20px;
+    }
+
+    nav ul li
+    {
+        display: inline-block;
+        line-height: 80px;
+    }
+
+    nav ul li a
+    {
+        color: #000000;
+        display: block;
+        padding: 0px 10px;
+        text-decoration: none;
+    }
 
 #Titulo
 {
@@ -12,7 +73,7 @@ body
 
 #Titulo1
 {
-    background-color: whitesmoke;
+    background-color: #1FC2BE;
     width: 670px;
     height: 80px;
     text-align: center;
@@ -28,7 +89,7 @@ body
 
 #PrimerTexto-1
 {
-    background-color: whitesmoke;
+    background-color: #1FC2BE;
     text-align: justify;
     width: auto;
     padding-left: 10px;
@@ -48,7 +109,7 @@ body
 
 #PrimerTexto-2
 {
-    background-color: whitesmoke;
+    background-color: #1FC2BE;
     width: 670px;
     height: 265px;
     text-align: justify;
@@ -78,7 +139,7 @@ body
 
 #PrimerTexto-3
 {
-    background-color: whitesmoke;
+    background-color: #1FC2BE;
     width: 600px;
     height: 385px;
     text-align: justify;
