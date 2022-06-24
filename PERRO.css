@@ -2,6 +2,100 @@ body
 {
     font-family: "Arial";
     background-color: #32C6C1;
+    margin-top: 0%;
+    margin: 0%;
+}
+
+#Cabecera
+{
+    display: flex;
+    justify-content:baseline;
+    background-color: whitesmoke;
+    height: 85px;
+    margin-bottom: 20px;
+    border-bottom: 2px solid black;
+}
+
+#Logo
+{
+    margin-bottom: 20px;
+
+}
+
+.LogoCabecera
+{
+    display: block;
+    text-align: center; 
+    padding-top: 15px; 
+    padding-left: 20px;
+}
+
+#Cabecera1
+{
+    display: block;
+    text-align: left;
+    height: 50px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    border-top: 100%;
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-bottom: 20px;
+}
+
+.NomCabecera
+{
+    color: black;
+    text-decoration: none;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.LemaCabecera
+{
+    display: block;
+    color: black;
+    text-decoration: none;
+    font-weight: 300;
+}
+
+#Cabecera2
+{
+    display: flex;
+    float: right;
+    justify-content: right;
+    text-align: center;
+    margin-left: 600px;
+    margin-top: 30px;
+}
+
+.Info1
+{
+    display: flex;
+    color: black;
+    text-decoration: none;
+    font-weight: 300;
+    margin-right: 10px;
+}
+
+.Info2
+{
+    display: flex;
+    color: black;
+    text-decoration: none;
+    font-weight: 300;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.Info3
+{
+    display: flex;
+    color: black;
+    text-decoration: none;
+    font-weight: 300;
+    margin-right: 10px;
 }
 
 #Titulo
@@ -49,7 +143,7 @@ body
 #PrimerTexto-2
 {
     background-color: whitesmoke;
-    width: 670px;
+    width: 680px;
     height: 265px;
     text-align: justify;
     margin-top: 20px;
