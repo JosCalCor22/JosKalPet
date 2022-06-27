@@ -282,3 +282,42 @@ nav
     margin-top: 20px;
     border: 2px solid black;
 }
+
+#Titulo2
+{
+    background-color: whitesmoke;
+    text-align: center;
+    margin: 20px 17px 0px 15px;
+    padding: 0px 10px 0px 10px;
+    border: 2px solid black;
+    border-radius: 15px;
+}
+
+#Texto5
+{
+    justify-content: space-evenly;
+    display: flex;
+}
+
+#MiniTexto1
+{
+    justify-content: left;
+    width: 600px;
+    background-color: #f5f5f5;
+    padding: 5px 10px 5px 10px;
+    margin: 20px 45px 0px 15px;
+    border: 2px solid black;
+    border-radius: 15px;
+}
+
+#MiniTexto2
+{
+    justify-content: right;
+    text-align: justify;
+    width: 620px;
+    background-color: #f5f5f5;
+    padding: 5px 10px 5px 10px;
+    margin: 20px 15px 0px 0px;
+    border: 2px solid black;
+    border-radius: 15px;
+}
