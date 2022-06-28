@@ -1,6 +1,10 @@
-# PETROGIT
-Es mi primera pagina web. Es sencilla y no tiene gran decoración sin embargo a medida que pueda la iré mejorando.
+# JOSKALPET🐹
+>Es mi primera pagina web. Es sencilla y no tiene gran decoración sin embargo a medida que pueda la iré mejorando.
 
-Mi intencion es poner reponsive designe a mi pagina web, ahorita no tengo el conocimineto suficiente para realizar este proceso, sin embargo, lo tendre como un obejetivo a corto plazo.
+Me gustaria complementar esta pagina con:
+• Responsive designe
+• Mejor interfaz
+• Base de datos 
+• Menu interactivo y mas llamativo
 
-Me encantaria poner una base de datos mediante SQL y asi poder tener usuarios en mi pagina web.
+Soy nuevo en este mundo de la programacion y estoy haciendo mi mejor esfuerzo por hacer mi primera pagina llamativa al mundo. Estoy aplicando mis conocimientos y siento que cada vez estoy avanzando y progresando, por esa razon si alguien llego a mi pagina y le gustaria contribuir con mis objetivos o con alguna idea... Siente bienvenido.
