@@ -5,7 +5,7 @@ var app = express();
 
  function inicio(peticion, resultado)
  {
-    resultado.send(PERRO.html, PERRO.css);
+    resultado.send(Este es mi primer servidor);
  }
 
  app.listen(9090);
